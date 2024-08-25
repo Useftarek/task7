@@ -16,6 +16,20 @@
 
 // -----------------------------------------------------------------------
 
+// 2-
+
+// let num = 16;
+
+// let numSqt = Math.sqrt(num); 
+
+// if(numSqt == Math.floor(numSqt)) {
+//     console.log(true);
+// } else {
+//     console.log(false);
+// };
+
+// -----------------------------------------------------
+
 // 4-
 
 // function lowerUpper(loUp) {
